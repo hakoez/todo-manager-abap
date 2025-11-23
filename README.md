@@ -33,15 +33,15 @@ Was ich mit dem Projekt gelernt habe
   
   -Verwenden von:
   
-    -LOOP AT … ASSIGNING
+  -LOOP AT … ASSIGNING
   
-    -WHERE-Filter
+  -WHERE-Filter
   
-    -DELETE … INDEX sy-tabix
+  -DELETE … INDEX sy-tabix
   
-    -VALUE-Operator
+  -VALUE-Operator
   
-    -INSERT
+  -INSERT
   
   -Starten eines ABAP-Programms über IF_OO_ADT_CLASSRUN
 
@@ -64,3 +64,4 @@ Warum dieses Projekt?
   -interne Tabellen zu benutzen
   
   -später die gleiche Logik als RAP/Fiori-App umzusetzen
+
